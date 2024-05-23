@@ -39,25 +39,26 @@ API ENDPOINTS
 
 TO Create .NET CORE web API
 
-dotnet new webapi -n TradeAPI
+      > dotnet new webapi -n TradeAPI
 
 TO ADD PACKAGE
 
-dotnet add package <package>
+      > dotnet add package packagename
 
 TO LIST DOTNET SDKs
 
-dotnet --list-sdks
+      > dotnet --list-sdks
 
 TO RESTORE
-dotnet restore
+
+      > dotnet restore
 
 TO BUILD
 
-dotnet build
+      > dotnet build
 
 TO RUN
 
-dotnet RUN
+      > dotnet RUN
 
 
