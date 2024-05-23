@@ -1,0 +1,7 @@
+C:\Users\johna\TradeAPI\obj\Debug\net8.0\TradeAPI.csproj.AssemblyReference.cache
+C:\Users\johna\TradeAPI\obj\Debug\net8.0\TradeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johna\TradeAPI\obj\Debug\net8.0\TradeAPI.AssemblyInfoInputs.cache
+C:\Users\johna\TradeAPI\obj\Debug\net8.0\TradeAPI.AssemblyInfo.cs
+C:\Users\johna\TradeAPI\obj\Debug\net8.0\TradeAPI.csproj.CoreCompileInputs.cache
+C:\Users\johna\TradeAPI\obj\Debug\net8.0\TradeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\johna\TradeAPI\obj\Debug\net8.0\TradeAPI.MvcApplicationPartsAssemblyInfo.cache

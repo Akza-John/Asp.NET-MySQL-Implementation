@@ -1,0 +1,7 @@
+C:\Users\johna\TradeAPI\CustomerService\obj\Debug\netcoreapp3.1\CustomerService.csproj.AssemblyReference.cache
+C:\Users\johna\TradeAPI\CustomerService\obj\Debug\netcoreapp3.1\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johna\TradeAPI\CustomerService\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfoInputs.cache
+C:\Users\johna\TradeAPI\CustomerService\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfo.cs
+C:\Users\johna\TradeAPI\CustomerService\obj\Debug\netcoreapp3.1\CustomerService.csproj.CoreCompileInputs.cache
+C:\Users\johna\TradeAPI\CustomerService\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\johna\TradeAPI\CustomerService\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cache
